@@ -1,0 +1,19 @@
+{
+  "gitSyncId": "66a8d92ab2750467238c8502_f0fa230c-2478-49a9-aac0-957f62bdfbb7",
+  "id": "Page1_GetLimitedUsers2InMasterOnly",
+  "moduleUUID": "c7ec6ee1-953f-4308-ab59-ec8d2aeba733",
+  "packageUUID": "1dbf5568-4a83-4370-9dea-bf1ce840ad2f",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "limit": "3"
+    },
+    "moduleInputs": {
+      "wwszsuhxik": {}
+    },
+    "name": "GetLimitedUsers2InMasterOnly",
+    "pageId": "Page1",
+    "version": "0.0.1"
+  }
+}
